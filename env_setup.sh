@@ -28,4 +28,4 @@ sudo systemctl status docker
 ##################
 
 sudo docker pull waleedka/modern-deep-learning
-sudo docker run -it -p 8888:8888 -p 6006:6006 -v ~/:/host waleedka/modern-deep-learning
+# sudo docker run -it -p 8888:8888 -p 6006:6006 -v ~/:/host waleedka/modern-deep-learning
